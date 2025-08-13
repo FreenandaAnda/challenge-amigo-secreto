@@ -19,8 +19,7 @@
 
 ### Espero que disfruten interactuar con la aplicación
 
+![Status_terminado](https://img.shields.io/badge/status_terminado-pink)
 
-
-![Badge_owner](https://img.shields.io/github/stars/:user) 
 
 
