@@ -20,7 +20,7 @@
 
 
 ### ## ¡¿Estás listo para descubrir quién es tu amigo secreto?!
-[<Mi_app>](<index.html>)
+[<Mi_app>](<Website>)
 
 
 ![Status_terminado](https://img.shields.io/badge/STATUS_TERMINADO-white)
