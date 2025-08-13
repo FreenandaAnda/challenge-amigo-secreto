@@ -26,7 +26,7 @@
 | :---: |
 
 
-![Status_terminado](https://img.shields.io/badge/STATUS_TERMINADO-white)
+![Status_terminado](https://img.shields.io/badge/STATUS_TERMINADO-blue)
 
 
 
