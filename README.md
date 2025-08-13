@@ -1,6 +1,6 @@
-#PROYECTO DEL AMIGO SECRETO
-
 ![amigosecreto](amigosecreto.png)
+
+
 
 
 ### Como parte de nuestro proceso de aprendizaje se nos pidió desarrollar una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
@@ -20,7 +20,4 @@
 
 
 ### Espero que disfruten interactuar con la aplicación
-
-https://img.shields.io/badge/Try%20It%20Online-303030.svg?style=for-the-badge&logo=Try-It-Online&logoColor=white
-
-
+[http://file:///C:/Users/Fernanda/OneDrive/Documentos/Git/challenge-amigo-secreto/index.html](http://file:///C:/Users/Fernanda/OneDrive/Documentos/Git/challenge-amigo-secreto/index.html)
