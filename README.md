@@ -22,4 +22,6 @@
 ![Status_terminado](https://img.shields.io/badge/STATUS_TERMINADO-white)
 
 
+!{Owner](https://img.shields.io/gem/u/https://github.com/FreenandaAnda)
+
 
