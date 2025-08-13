@@ -1,7 +1,7 @@
 ![amigosecreto](amigosecreto.png)
 
 
-
+![Badge terminado](https://img.shields.io/badge/STATUS-TERMINADO-blue)
 
 ### Como parte de nuestro proceso de aprendizaje se nos pidió desarrollar una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
@@ -20,4 +20,4 @@
 
 
 ### Espero que disfruten interactuar con la aplicación
-[http://file:///C:/Users/Fernanda/OneDrive/Documentos/Git/challenge-amigo-secreto/index.html](http://file:///C:/Users/Fernanda/OneDrive/Documentos/Git/challenge-amigo-secreto/index.html)
+
