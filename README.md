@@ -1,7 +1,7 @@
 ![amigosecreto](amigosecreto.png)
 
 
-![Badge terminado](https://img.shields.io/badge/STATUS-TERMINADO-blue)
+
 
 ### Como parte de nuestro proceso de aprendizaje se nos pidió desarrollar una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
@@ -17,7 +17,11 @@
 
 - ** Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo",  se seleccionará aleatoriamente un nombre de la lista y ese será el amigo secreto.
 
-
-
 ### Espero que disfruten interactuar con la aplicación
+
+
+![Badge terminado](https://img.shields.io/badge/STATUS-TERMINADO-blue)
+
+![Badge_owner](https://img.shields.io/github/stars/:user) 
+
 
