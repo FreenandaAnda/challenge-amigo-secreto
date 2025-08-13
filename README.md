@@ -22,7 +22,7 @@
 #### Espero disfrutes interactuar con la aplicación
 
 ## Autores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Fernanda Cortes</sub>](https://github.com/FreenandaAnda)|
+| [<img src="gitavatar.jpeg" width=115><br><sub>Fernanda Cortes</sub>](https://github.com/FreenandaAnda)|
 | :---: |
 
 
