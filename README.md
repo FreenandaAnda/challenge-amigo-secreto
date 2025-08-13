@@ -21,7 +21,7 @@
 
 #### Espero disfrutes interactuar con la aplicación
 
-## Autores
+## Autor
 | [<img src="gitavatar.jpeg" width=115><br><sub>Fernanda Cortes</sub>](https://github.com/FreenandaAnda)|
 | :---: |
 
