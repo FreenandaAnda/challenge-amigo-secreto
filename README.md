@@ -20,6 +20,10 @@
 
 
 #### Espero disfrutes interactuar con la aplicación
+## 🌐 Ver la aplicación en vivo
+[Haz clic aquí para abrir la app](https://freenandaanda.github.io/challenge-del-amigo-secreto/)
+
+
 
 ## Autor
 | [<img src="gitavatar.jpeg" width=115><br><sub>Fernanda Cortes</sub>](https://github.com/FreenandaAnda)|
