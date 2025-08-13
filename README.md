@@ -21,7 +21,7 @@
 
 #### Espero disfrutes interactuar con la aplicación
 ## 🌐 Ver la aplicación en vivo
-[Haz clic aquí para abrir la app](file:///C:/Users/Fernanda/OneDrive/Documentos/Git/challenge-amigo-secreto/index.html)
+[Haz clic aquí para abrir la app]
 
 
 
