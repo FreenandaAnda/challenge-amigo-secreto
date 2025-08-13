@@ -19,7 +19,11 @@
 - **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo",  se seleccionará aleatoriamente un nombre de la lista y ese será el amigo secreto.
 
 
-#### ¡¿Estás listo para descubrir quién es tu amigo secreto?!
+#### Espero disfrutes interactuar con la aplicación
+
+## Autores
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Fernanda Cortes</sub>](https://github.com/FreenandaAnda)|
+| :---: |
 
 
 ![Status_terminado](https://img.shields.io/badge/STATUS_TERMINADO-white)
