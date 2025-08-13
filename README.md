@@ -20,7 +20,6 @@
 ### Espero que disfruten interactuar con la aplicación
 
 
-![Badge terminado](https://img.shields.io/badge/STATUS-TERMINADO-blue)
 
 ![Badge_owner](https://img.shields.io/github/stars/:user) 
 
