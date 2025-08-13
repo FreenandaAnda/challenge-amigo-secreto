@@ -21,9 +21,7 @@
 
 #### Espero disfrutes interactuar con la aplicación
 ## 🌐 Ver la aplicación en vivo
-[Haz clic aquí para abrir la app](https://github.com/FreenandaAnda/challenge-amigo-secreto.git)
-
-
+[Haz clic aquí para abrir la app](https://github.com/FreenandaAnda/index.html)
 
 
 ## Autor
