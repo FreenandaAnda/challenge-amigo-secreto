@@ -21,7 +21,8 @@
 
 #### Espero disfrutes interactuar con la aplicación
 ## 🌐 Ver la aplicación en vivo
-[Haz clic aquí para abrir la app]
+[Haz clic aquí para abrir la app](https://freenandaanda.github.io/challenge-amigo-secreto/)
+
 
 
 
