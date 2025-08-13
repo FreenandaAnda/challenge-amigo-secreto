@@ -19,7 +19,7 @@
 
 ### Espero que disfruten interactuar con la aplicación
 
-![Status_terminado](https://img.shields.io/badge/STATUS_TERMINADO-blue-gray)
+![Status_terminado](https://img.shields.io/badge/STATUS_TERMINADO-white)
 
 
 
