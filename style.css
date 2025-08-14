@@ -4,7 +4,7 @@
     --color-tertiary: #C4C4C4;
     --color-button: #387896;
     --color-button-hover: #7e116c;
-    --color-text: #444444;
+    --color-text: #070404;
     --color-white: #FFFFFF;
 }
 
@@ -160,5 +160,6 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
 
 
