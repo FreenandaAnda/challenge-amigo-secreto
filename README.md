@@ -23,9 +23,7 @@
 [Haz clic aquí para abrir la app](https://freenandaanda.github.io/challenge-amigo-secreto/)
 
 
-###Aquí, los pasos a seguir para descubrir a tu amigo secreto
-
-Image:
+### Aquí, los pasos a seguir para descubrir a tu amigo secreto
 
 ![paso1](paso1.jpg)
 
@@ -33,7 +31,7 @@ Image:
 
 ![paso3](paso3.jpg)
 
-> Espero hayas disfrutado interactuar con la aplicación
+### Espero hayas disfrutado interactuar con la aplicación, ¡hasta la próxima! :wave:
 
 
 ## Autor
