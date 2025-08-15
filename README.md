@@ -27,11 +27,11 @@
 
 Image:
 
-![paso1](paso1.png)
+![paso1](paso1.jpg)
 
-![paso2](paso2.png)
+![paso2](paso2.jpg)
 
-![paso3](paso3.png)
+![paso3](paso3.jpg)
 
 > Espero hayas disfrutado interactuar con la aplicación
 
