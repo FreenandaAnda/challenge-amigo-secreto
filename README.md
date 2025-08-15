@@ -19,11 +19,11 @@
 - **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo",  se seleccionará aleatoriamente un nombre de la lista y ese será el amigo secreto.
 
 
-### 🌐Visita el link para ver la aplicación en vivo
+### 🌐Visita el link para ver la aplicación en vivo  :arrow_heading_down:
 [Haz clic aquí para abrir la app](https://freenandaanda.github.io/challenge-amigo-secreto/)
 
 
-### Aquí, los pasos a seguir para descubrir a tu amigo secreto :girl: :boy: 
+### Aquí, los pasos a seguir para descubrir a tu amigo secreto :girl: :grey_question: :boy: 
 
 ![paso1](paso1.jpg)
 
