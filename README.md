@@ -20,7 +20,7 @@
 
 
 ### 🌐Visita el link para ver la aplicación en vivo 
-:arrow_down:
+:arrow_right:
 [Haz clic aquí para abrir la app](https://freenandaanda.github.io/challenge-amigo-secreto/)
 
 
